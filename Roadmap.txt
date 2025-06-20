@@ -1,0 +1,35 @@
+
+
+
+Things to be aware of while scraping data:
+-ignore prices too high to be cheaper even with $0 shipping
+-ignore art cards
+-ignore/check collector's editions to make sure they are legal
+-search for text referring to "tournament" and "legal"
+-check for exact title text
+-if you look at an entire page of printings and see no matches for the card you're searching for, stop and don't look at any later pages
+
+
+Information it needs:
+-cost of all cards at all relevant printings per seller
+-card foil status, condition
+-shipping costs at each seller
+-potential shipping discounts/waivers
+
+
+
+
+Optional/stretch goals:
+1. select printing
+2. printing whitelists & blacklists
+5. select thresholds for multiple printings
+4. handle tokens
+5. select "any printing with X art"
+6. toggle to allow cards that are / are not tournament legal
+7. add UI
+8. archidekt integration
+9. document dependencies
+
+
+
+
